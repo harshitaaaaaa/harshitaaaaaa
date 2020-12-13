@@ -9,6 +9,6 @@ I am passionate to work as a front-end developer. Some technologies I like worki
 ## Find me around the web :earth_americas:
 
 - Follow me on Linkedin: <a href="https://www.linkedin.com/in/harshita-gupta-2980b21b3/">Linkedin</a>
-- My email account: <a href="https://mail.google.com/mail/u/0/#inbox?compose=VpCqJKjNWpVzJbcmtWtTFmzqBLcTWpMbRMsRLDwZsHWVwPMthrXJnXzCLgFGfzjmPRXHNkV">harshitagupta021@gmail.com</a>
+- My email account: <a href="#">harshitagupta021@gmail.com</a>
 
 - If you want to know more, click <a href="https://harshitaaaaaa.github.io/My-Portfolio/"> My Portfolio</a>
